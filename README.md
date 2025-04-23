@@ -26,5 +26,8 @@
     <li>
         <a href="https://www.youtube.com/watch?v=av6aCQsHnx4">O Arduino não se comunica com a IDE pela USB? Veja esses 7 erros!</a>  
     </li>
+    <li>
+        <a href="https://www.youtube.com/watch?v=OMuoUVIoBBo">ArmBian uma distro Linux p/o seu Tvbox rk322x.</a>
+    </li>
 </ul>
 
